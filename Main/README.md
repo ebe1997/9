@@ -1,9 +1,9 @@
-# l
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# good readme
+![GitHub license](https://img.shields.io/badge/license-APACHE 2.0-blue.svg)
 
 ## Description
 
-l
+readme generator for apps
 
 ## Table of Contents 
 
@@ -29,15 +29,15 @@ npm i
 
 ## Usage
 
-
+correct file, install dependencies
 
 ## License
 
-This project is licensed under the MIT license.
+This project is licensed under the APACHE 2.0 license.
   
 ## Contributing
 
-
+commmit/add 
 
 ## Tests
 
@@ -49,5 +49,5 @@ npm test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at l. You can find more of my work at [l](https://github.com/l/).
+If you have any questions about the repo, open an issue or contact me directly at nezz2197@gmail.com. You can find more of my work at [ebe1997](https://github.com/ebe1997/).
 
